@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "name",
+      "tenant": "00000000-0000-0000-0000-000000000000",
+      "request": "launch",
+      "type": "al",
+      "environmentType": "Sandbox",
+      "environmentName": "environmentName",
+      "breakOnError": true,
+      "launchBrowser": false,
+      "schemaUpdateMode": "Synchronize"
+    }            
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "00000000-0000-0000-0000-000000000000",
+  "name": "name",
+  "publisher": "Inventio.IT",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://www.inventio.it/support",
+  "url": "https://www.inventio.it",
+  "logo": "IITextension-240x240.png",
+  "dependencies": [
+  ],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "runtime": "14.0",
+  "features": [
+    "TranslationFile"
+  ],
+  "target": "Cloud",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "supportedLocales": [
+    "en-US",
+    "da-DK"
+  ]
+}
