@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="VeriMatch">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3342822961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Field Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342822961 - Field 1467445992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dest. Field Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Dest. Field Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342822961 - Field 4108497489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Destination Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Dest. Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342822961 - Field 2079521741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dest. Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Dest. Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342822961 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342822961 - Field 83923847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSV Column No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Source Column Index - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 3697401602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 1784311751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2422008368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 1315524157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 1953220774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 682220979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Normalized Search Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Search Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match Candidate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 3620277651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buffer Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Buffer Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 151935232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Error Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 2619707180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value in BC</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Existing Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 4147031817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value in CSV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Imported Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 1313331829 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Similarity Score</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Match Score - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Project Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 3736588255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggested Match</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Suggested RecordId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 1832759837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field Sync Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3528558577 - Field 2403662787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Match Candidate - Field User Decision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 462835751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSV Delimiter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field CSV Delimiter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 1745472700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSV Key Column No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field CSV Key Column No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 3734149799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Confidence %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Min. Confidence % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 4176268338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match Key Field ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Target Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 2561976296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Match Key Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Target Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 1666780894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target BC Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Target Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3992157223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Mappings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Field Mapping Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3992157223 - Control 1467445992 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The name of the field in Business Central to update.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Field Mapping Subform - Control Dest. Field Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3992157223 - Control 4108497489 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The field in Business Central to update.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Field Mapping Subform - Control Dest. Field ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3992157223 - Control 83923847 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The column number in your CSV file (e.g., 3 for Phone No).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Field Mapping Subform - Control Source Column Index - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Candidates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Control 151935232 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details of any errors encountered during processing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Control Error Log - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Control 2619707180 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The existing value in the target system.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Control Existing Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Control 4147031817 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value imported from the source data file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Control Imported Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Control 1313331829 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Higher is better.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Control Match Score - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Control 1832759837 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The synchronization status of this match candidate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Control Sync Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Control 2403662787 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The decision made by the user for this match candidate.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Control User Decision - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Action 1168295337 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Automatically sets Decision to Update for high confidence matches.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action AcceptSuggestions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Action 1168295337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Accept Matches &gt; 80%</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action AcceptSuggestions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Action 1068937304 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply all approved changes to the target system.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action Apply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Action 1068937304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute Updates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action Apply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Action 3143881489 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sets the Decision to "Update Record" for the highlighted lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action ApproveSelection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2545631776 - Action 3143881489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Selected to Update</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action ApproveSelection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Project Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The unique code for this reconciliation project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 462835751 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the character used to separate columns in your CSV file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control CSV Delimiter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 1745472700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Which column in the CSV contains the Name to match against?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control CSV Key Column No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description of what data is being matched.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 3734149799 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The minimum confidence percentage required to consider a match candidate for approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Min. Confidence % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The current status of the reconciliation project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 4176268338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The field in the target table to match against.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Target Field ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 1666780894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Business Central table ID being matched against.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Target Table ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 2625316473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Mapping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control Mappings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Action 3201496503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import data from a CSV file into the reconciliation project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Action Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1. Import CSV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Action 2675496269 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run analysis on the imported data to identify potential matches.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Action Process - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Action 2675496269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>2. Run Analysis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Action Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Action 2672556262 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Review the match candidates identified by the analysis process.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Action Results - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Action 2672556262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>3. Review Candidates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Action Results - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 981057130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Projects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 981057130 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The unique code for this reconciliation project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project List - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 981057130 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description of what data is being matched.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 981057130 - Control 3734149799 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The minimum confidence percentage required to consider a match candidate for approval.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project List - Control Min. Confidence % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 981057130 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The current status of the reconciliation project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 981057130 - Control 1666780894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Business Central table ID being matched against.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project List - Control Target Table ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 1590572360 - EnumValue 2958218723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Colon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VRM CSV Delimiter - EnumValue Colon - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1590572360 - EnumValue 265683815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comma</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VRM CSV Delimiter - EnumValue Comma - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1590572360 - EnumValue 932253256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pipe</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VRM CSV Delimiter - EnumValue Pipe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1590572360 - EnumValue 1745604021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Semicolon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VRM CSV Delimiter - EnumValue Semicolon - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1590572360 - EnumValue 3908234057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tab</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VRM CSV Delimiter - EnumValue Tab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1590572360 - EnumValue 586360676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tilde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum VRM CSV Delimiter - EnumValue Tilde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1934237186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Administrator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet VRM Admin - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

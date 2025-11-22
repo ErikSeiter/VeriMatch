@@ -1,15 +1,15 @@
 {
-  "id": "00000000-0000-0000-0000-000000000000",
-  "name": "name",
-  "publisher": "Inventio.IT",
+  "id": "33a1cfdb-7c7d-41fb-be7b-280cdc4e4949",
+  "name": "VeriMatch",
+  "publisher": "Erik Seiter",
   "brief": "",
-  "description": "",
+  "description": "A dynamic, fuzzy-logic entity reconciliation engine for Business Central.",
   "version": "1.0.0.0",
   "privacyStatement": "",
   "EULA": "",
-  "help": "https://www.inventio.it/support",
-  "url": "https://www.inventio.it",
-  "logo": "IITextension-240x240.png",
+  "help": "",
+  "url": "",
+  "logo": "",
   "dependencies": [
   ],
   "screenshots": [],
@@ -22,13 +22,13 @@
   "target": "Cloud",
   "idRanges": [
     {
-      "from": 50000,
+      "from": 60100,
       "to": 99000
     }
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": true,
+    "allowDownloadingSource": false,
     "includeSourceInSymbolFile": true
   },
   "supportedLocales": [
