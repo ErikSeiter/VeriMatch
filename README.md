@@ -67,6 +67,63 @@ Click **"Run Analysis"**. This submits a background job. Once the status is `Ana
 3.  Select valid matches (Ctrl+Click) and use **"Set Selected to Update"**.
 4.  Click **"Execute Updates"** to commit changes to the database.
 
-## 🛡 License
+## 🔌 API Integration
 
+VeriMatch exposes standard Connect APIs, allowing external systems (PIM, eCommerce, Python scripts) to trigger reconciliation programmatically without UI interaction.
+
+**Base URL:** `https://api.businesscentral.dynamics.com/v2.0/{tenant}/sandbox/api/contoso/verimatch/v1.0/companies({id})`
+
+### 1. Create Project
+**POST** `/projects`
+```json
+{
+    "code": "API-JOB-01",
+    "description": "Nightly Customer Sync",
+    "targetTableId": 18,
+    "targetFieldId": 2,
+    "minConfidence": 85,
+    "csvKeyColumnNo": 1
+}
+```
+
+### 2. Configure Mapping
+**POST** `/fieldMaps`
+
+```json
+{
+    "projectCode": "API-JOB-01",
+    "sourceColumnIndex": 3,
+    "destTableId": 18,
+    "destFieldId": 9
+}
+```
+
+### 3. Push Data (Buffer)
+**POST** `/bufferLines`
+```json
+{
+    "projectCode": "API-JOB-01",
+    "lineNo": 1,
+    "searchKey": "Contoso Ltd",
+    "col1": "Contoso Ltd",
+    "col2": "555-0100"
+}
+```
+
+###4. Run Analysis (Bound Action)
+**POST** `/projects({systemId})/Microsoft.NAV.runAnalysis`
+
+###5. Review & Approve
+**GET** `/candidates?$filter=matchScore ge 90`
+
+
+**PATCH** `/candidates({systemId})`
+
+```json
+{
+    "userDecision": "Update Record"
+}
+```
+
+🛡 License
 This project is licensed under the MIT License - see the LICENSE file for details.
