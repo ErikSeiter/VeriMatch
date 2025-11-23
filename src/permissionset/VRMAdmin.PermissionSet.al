@@ -21,6 +21,11 @@ permissionset 60100 "VRM Admin"
         page "VRM Project List" = X,
         page "VRM Project Card" = X,
         page "VRM Field Mapping Subform" = X,
-        page "VRM Match Worksheet" = X;
+        page "VRM Match Worksheet" = X,
+
+        page "VRM Project API" = X,
+        page "VRM Buffer API" = X,
+        page "VRM Candidate API" = X,
+        page "VRM Mapping API" = X;
 
 }
