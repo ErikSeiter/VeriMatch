@@ -48,6 +48,11 @@ page 60102 "VRM Project Card"
                     ApplicationArea = All;
                     ToolTip = 'Select the character used to separate columns in your CSV file.';
                 }
+                field("CSV Encoding"; Rec."CSV Encoding")
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Select the encoding format of your CSV file.';
+                }
             }
             part(Mappings; "VRM Field Mapping Subform")
             {
@@ -116,7 +121,9 @@ page 60102 "VRM Project Card"
     local procedure ImportFile()
     var
         Buf: Record "VRM Import Buffer";
+        Blob: Codeunit "Temp Blob";
         InStr: InStream;
+        OutStr: OutStream;
         FileName: Text;
         Cols: List of [Text];
         LineTxt: Text;
@@ -151,6 +158,20 @@ page 60102 "VRM Project Card"
 
         Buf.SetRange("Project Code", Rec.Code);
         Buf.DeleteAll();
+
+        Blob.CreateOutStream(OutStr);
+        CopyStream(OutStr, InStr);
+
+        case Rec."CSV Encoding" of
+            Rec."CSV Encoding"::UTF8:
+                Blob.CreateInStream(InStr, TextEncoding::UTF8);
+            Rec."CSV Encoding"::UTF16:
+                Blob.CreateInStream(InStr, TextEncoding::UTF16);
+            Rec."CSV Encoding"::MSDOS:
+                Blob.CreateInStream(InStr, TextEncoding::MSDOS);
+            Rec."CSV Encoding"::Windows:
+                Blob.CreateInStream(InStr, TextEncoding::Windows);
+        end;
 
         while InStr.ReadText(LineTxt) > 0 do begin
             Cols := LineTxt.Split(Delimiter);

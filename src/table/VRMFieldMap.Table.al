@@ -26,6 +26,8 @@ table 60100 "VRM Field Map"
         {
             TableRelation = AllObjWithCaption."Object ID";
         }
+
+
     }
 
     keys

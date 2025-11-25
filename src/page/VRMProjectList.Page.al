@@ -40,6 +40,7 @@ page 60103 "VRM Project List"
                     StyleExpr = StatusStyle;
                     ToolTip = 'The current status of the reconciliation project.';
                 }
+
             }
         }
     }

@@ -178,6 +178,101 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field Target Table ID - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1404605611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Buffer API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 1679152323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3592242174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2954545557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 4061029768 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col4</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3423333151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 1294919425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LineNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control lineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2531206244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProjectCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control projectCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3754707355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SearchKey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control searchKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Candidate API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 1379325528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ErrorLog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control errorLog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 835964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExistingValue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control existingValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 2330295953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ImportedValue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control importedValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 3287865221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MatchScore</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control matchScore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 2531206244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProjectCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control projectCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 3853912941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SyncStatus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control syncStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4015043808 - Control 3759031971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserDecision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Candidate API - Control userDecision - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3992157223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Field Mappings</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -197,6 +292,36 @@
           <source>The column number in your CSV file (e.g., 3 for Phone No).</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VRM Field Mapping Subform - Control Source Column Index - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386875375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Mapping API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Mapping API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386875375 - Control 100421923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DestFieldId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Mapping API - Control destFieldId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386875375 - Control 4154673159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DestTableId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Mapping API - Control destTableId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386875375 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Mapping API - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386875375 - Control 2531206244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProjectCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Mapping API - Control projectCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386875375 - Control 4175552535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SourceColumnIndex</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Mapping API - Control sourceColumnIndex - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2545631776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>VeriMatch Candidates</source>
@@ -262,6 +387,51 @@
           <source>Set Selected to Update</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VRM Match Worksheet - Action ApproveSelection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VeriMatch Project API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 707985127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 2639348786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KeyColumnNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control csvKeyColumnNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 4232699882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SystemId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 3352785274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MinConfidence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control minConfidence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 998393528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 2982282018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TargetFieldID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control targetFieldId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2037363072 - Control 3033465582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TargetTableID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project API - Control targetTableId - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2653594732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>VeriMatch Project</source>

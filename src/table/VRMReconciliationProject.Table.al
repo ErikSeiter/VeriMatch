@@ -73,6 +73,12 @@ table 60103 "VRM Reconciliation Project"
             OptionMembers = Open,Data_Imported,Analysis_Running,Analysis_Complete;
             Editable = false;
         }
+        field(11; "CSV Encoding"; Option)
+        {
+            Caption = 'CSV Encoding';
+            OptionMembers = UTF8,UTF16,MSDOS,Windows;
+
+        }
     }
 
     keys
