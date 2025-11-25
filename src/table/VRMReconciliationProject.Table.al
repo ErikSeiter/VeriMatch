@@ -57,7 +57,7 @@ table 60103 "VRM Reconciliation Project"
             DataClassification = CustomerContent;
             Caption = 'CSV Key Column No.';
             MinValue = 1;
-            MaxValue = 5;
+            MaxValue = 20;
             InitValue = 2;
             Description = 'The column in the CSV that contains the value to match (e.g. Name).';
         }

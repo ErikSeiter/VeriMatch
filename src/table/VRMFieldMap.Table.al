@@ -10,7 +10,7 @@ table 60100 "VRM Field Map"
         {
             Caption = 'CSV Column No.';
             MinValue = 1;
-            MaxValue = 5;
+            MaxValue = 20;
         }
         field(3; "Dest. Field ID"; Integer)
         {

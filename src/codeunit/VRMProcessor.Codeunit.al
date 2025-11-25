@@ -151,6 +151,36 @@ codeunit 60101 "VRM Processor"
                 exit(Buf.Col_4);
             5:
                 exit(Buf.Col_5);
+            6:
+                exit(Buf.Col_6);
+            7:
+                exit(Buf.Col_7);
+            8:
+                exit(Buf.Col_8);
+            9:
+                exit(Buf.Col_9);
+            10:
+                exit(Buf.Col_10);
+            11:
+                exit(Buf.Col_11);
+            12:
+                exit(Buf.Col_12);
+            13:
+                exit(Buf.Col_13);
+            14:
+                exit(Buf.Col_14);
+            15:
+                exit(Buf.Col_15);
+            16:
+                exit(Buf.Col_16);
+            17:
+                exit(Buf.Col_17);
+            18:
+                exit(Buf.Col_18);
+            19:
+                exit(Buf.Col_19);
+            20:
+                exit(Buf.Col_20);
         end;
     end;
 }

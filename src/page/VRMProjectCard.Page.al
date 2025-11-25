@@ -181,7 +181,7 @@ page 60102 "VRM Project Card"
             Buf."Line No." += 1;
 
             for i := 1 to Cols.Count do
-                if i <= 5 then
+                if i <= 20 then
                     case i of
                         1:
                             Buf.Col_1 := CopyStr(Cols.Get(i), 1, 250);
@@ -193,6 +193,36 @@ page 60102 "VRM Project Card"
                             Buf.Col_4 := CopyStr(Cols.Get(i), 1, 250);
                         5:
                             Buf.Col_5 := CopyStr(Cols.Get(i), 1, 250);
+                        6:
+                            Buf.Col_6 := CopyStr(Cols.Get(i), 1, 250);
+                        7:
+                            Buf.Col_7 := CopyStr(Cols.Get(i), 1, 250);
+                        8:
+                            Buf.Col_8 := CopyStr(Cols.Get(i), 1, 250);
+                        9:
+                            Buf.Col_9 := CopyStr(Cols.Get(i), 1, 250);
+                        10:
+                            Buf.Col_10 := CopyStr(Cols.Get(i), 1, 250);
+                        11:
+                            Buf.Col_11 := CopyStr(Cols.Get(i), 1, 250);
+                        12:
+                            Buf.Col_12 := CopyStr(Cols.Get(i), 1, 250);
+                        13:
+                            Buf.Col_13 := CopyStr(Cols.Get(i), 1, 250);
+                        14:
+                            Buf.Col_14 := CopyStr(Cols.Get(i), 1, 250);
+                        15:
+                            Buf.Col_15 := CopyStr(Cols.Get(i), 1, 250);
+                        16:
+                            Buf.Col_16 := CopyStr(Cols.Get(i), 1, 250);
+                        17:
+                            Buf.Col_17 := CopyStr(Cols.Get(i), 1, 250);
+                        18:
+                            Buf.Col_18 := CopyStr(Cols.Get(i), 1, 250);
+                        19:
+                            Buf.Col_19 := CopyStr(Cols.Get(i), 1, 250);
+                        20:
+                            Buf.Col_20 := CopyStr(Cols.Get(i), 1, 250);
                     end;
 
 
