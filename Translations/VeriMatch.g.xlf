@@ -43,10 +43,65 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_1 - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 1491655146 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 853958529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_11</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 216261912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_12</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 3873532591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_13</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 4042441614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_14</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 3404744997 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_15</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2767048380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_16</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2129351763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_17</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2298260786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_18</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 1660564169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_19</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_19 - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2954808160 - Field 1784311751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Col_2</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 1751391415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_20</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_20 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2954808160 - Field 2422008368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Col_3</source>
@@ -62,6 +117,26 @@
           <source>Col_5</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 40130923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 677827540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2253099345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2954808160 - Field 2890795962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col_9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Import Buffer - Field Col_9 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2954808160 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Line No.</source>
@@ -143,6 +218,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field CSV Delimiter - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 2498300405 - Field 2356482031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CSV Encoding</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Reconciliation Project - Field CSV Encoding - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2498300405 - Field 1745472700 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>CSV Key Column No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -188,10 +268,65 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col1 - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 1448648723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col10</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2086345340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col11</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2724041957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col12</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3361738574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col13</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3192829551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col14</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3830526168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col15</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 173255489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col16</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 810952106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col17</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2255254363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col18</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2892950980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col19</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col19 - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1404605611 - Control 3592242174 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Col2</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 99579366 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col20</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col20 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1404605611 - Control 2954545557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Col3</source>
@@ -207,6 +342,26 @@
           <source>Col5</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 1041455706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col6</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 403759089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 3123454580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col8</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1404605611 - Control 2485757963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Col9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Buffer API - Control col9 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1404605611 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>SystemId</source>
@@ -452,6 +607,11 @@
           <source>Select the character used to separate columns in your CSV file.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control CSV Delimiter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2653594732 - Control 2356482031 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select the encoding format of your CSV file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VRM Project Card - Control CSV Encoding - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 2653594732 - Control 1745472700 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Which column in the CSV contains the Name to match against?</source>
