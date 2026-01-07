@@ -3,6 +3,7 @@ page 60100 "VRM Field Mapping Subform"
     PageType = ListPart;
     SourceTable = "VRM Field Map";
     Caption = 'Field Mappings';
+    DelayedInsert = true;
 
     layout
     {
@@ -10,6 +11,11 @@ page 60100 "VRM Field Mapping Subform"
         {
             repeater(Group)
             {
+                field("Project Code"; Rec."Project Code")
+                {
+                    ApplicationArea = All;
+                    Visible = false;
+                }
                 field("Source Column Index"; Rec."Source Column Index")
                 {
                     ApplicationArea = All;
@@ -63,4 +69,13 @@ page 60100 "VRM Field Mapping Subform"
             }
         }
     }
+
+    trigger OnNewRecord(BelowxRec: Boolean)
+    begin
+        if Rec.GetFilter("Project Code") <> '' then
+            Rec."Project Code" := Rec.GetRangeMin("Project Code");
+
+        if Rec.GetFilter("Dest. Table ID") <> '' then
+            Rec."Dest. Table ID" := Rec.GetRangeMin("Dest. Table ID");
+    end;
 }

@@ -2,12 +2,12 @@
   "version": "0.2.0",
   "configurations": [
     {
-            "name": "Sandbox-04112025",
-            "tenant": "",
+            "name": "Sandbox03122025_vers2",
+            "tenant": "****",
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "Sandbox-04112025",
+            "environmentName": "Sandbox03122025_vers2",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,

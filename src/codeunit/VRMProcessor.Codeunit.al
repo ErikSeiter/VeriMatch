@@ -1,3 +1,6 @@
+// --------------------------------------------------
+// Source: src/codeunit/VRMProcessor.Codeunit.al
+// --------------------------------------------------
 codeunit 60101 "VRM Processor"
 {
     TableNo = "Job Queue Entry";
@@ -20,9 +23,13 @@ codeunit 60101 "VRM Processor"
         TargetFldRef: FieldRef;
 
         TargetVal: Text;
+        SearchKey: Text;
+        NormSearchKey: Text;
+        NormTargetVal: Text;
+
         BestScore: Decimal;
         CurrentScore: Decimal;
-
+        ExactMatchFound: Boolean;
     begin
         Project.Status := Project.Status::Analysis_Running;
         Project.Modify();
@@ -37,30 +44,57 @@ codeunit 60101 "VRM Processor"
             repeat
                 BestScore := 0;
                 Clear(BestRecId);
+                ExactMatchFound := false;
+
+                SearchKey := Buffer."Search Key";
+                NormSearchKey := Algo.NormalizeText(SearchKey);
 
 
-                if TargetRecRef.FindSet() then
-                    repeat
-                        TargetFldRef := TargetRecRef.Field(Project."Target Field ID");
-                        TargetVal := Format(TargetFldRef.Value);
+                TargetFldRef := TargetRecRef.Field(Project."Target Field ID");
 
-                        if Abs(StrLen(Buffer."Search Key") - StrLen(TargetVal)) < 5 then begin
+                TargetFldRef.SetFilter('%1', '@' + SearchKey);
 
-                            CurrentScore := Algo.GetSimilarity(Buffer."Search Key", TargetVal);
+                if TargetRecRef.FindFirst() then begin
+                    BestScore := 100;
+                    BestRecId := TargetRecRef.RecordId;
+                    ExactMatchFound := true;
+                end;
+
+                TargetFldRef.SetRange();
+
+
+                if not ExactMatchFound then
+                    if TargetRecRef.FindSet() then
+                        repeat
+                            TargetFldRef := TargetRecRef.Field(Project."Target Field ID");
+                            TargetVal := Format(TargetFldRef.Value);
+
+                            if Abs(StrLen(SearchKey) - StrLen(TargetVal)) < 10 then begin
+
+
+                                NormTargetVal := Algo.NormalizeText(TargetVal);
+
+                                if NormSearchKey = NormTargetVal then
+                                    CurrentScore := 100
+                                else
+                                    CurrentScore := Algo.GetSimilarity(SearchKey, TargetVal);
+                            end;
 
                             if (CurrentScore >= Project."Min. Confidence %") and (CurrentScore > BestScore) then begin
                                 BestScore := CurrentScore;
                                 BestRecId := TargetRecRef.RecordId;
+
+                                if BestScore = 100 then
+                                    break;
+
                             end;
-                        end;
-                    until TargetRecRef.Next() = 0;
+                        until TargetRecRef.Next() = 0;
 
 
                 if BestScore > 0 then
                     CreateCandidate(Project, Buffer, BestRecId, BestScore);
 
             until Buffer.Next() = 0;
-
 
         TargetRecRef.Close();
         Project.Status := Project.Status::Analysis_Complete;
@@ -87,7 +121,6 @@ codeunit 60101 "VRM Processor"
 
         Cand.Insert();
     end;
-
 
     procedure ApplyApprovedChanges(ProjectCode: Code[20])
     var

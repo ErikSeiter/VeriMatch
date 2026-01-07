@@ -2,6 +2,16 @@ codeunit 60100 "VRM Algorithm Lib"
 {
     Access = Internal;
 
+    procedure NormalizeText(Input: Text): Text
+    begin
+        if Input = '' then exit('');
+
+        Input := UpperCase(Input);
+
+        Input := DelChr(Input, '=', '.,-/\()&_ ');
+
+        exit(Input);
+    end;
 
     procedure GetSimilarity(TextA: Text; TextB: Text): Decimal
     var
@@ -34,7 +44,6 @@ codeunit 60100 "VRM Algorithm Lib"
                 else
                     Cost := 1;
 
-
                 MinVal := Matrix[i, j + 1] + 1;
                 if (Matrix[i + 1, j] + 1) < MinVal then
                     MinVal := Matrix[i + 1, j] + 1;
@@ -43,7 +52,6 @@ codeunit 60100 "VRM Algorithm Lib"
 
                 Matrix[i + 1, j + 1] := MinVal;
             end;
-
 
         Distance := Matrix[LenA + 1, LenB + 1];
 
