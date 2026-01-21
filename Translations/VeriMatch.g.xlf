@@ -23,6 +23,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Dest. Table ID - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3342822961 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VRM Field Map - Field Line No. - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3342822961 - Field 2965272548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Project Code</source>
           <note from="Developer" annotates="general" priority="2"></note>

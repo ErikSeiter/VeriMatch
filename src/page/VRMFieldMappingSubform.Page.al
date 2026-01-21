@@ -4,6 +4,7 @@ page 60100 "VRM Field Mapping Subform"
     SourceTable = "VRM Field Map";
     Caption = 'Field Mappings';
     DelayedInsert = true;
+    AutoSplitKey = false;
 
     layout
     {
@@ -16,6 +17,7 @@ page 60100 "VRM Field Mapping Subform"
                     ApplicationArea = All;
                     Visible = false;
                 }
+
                 field("Source Column Index"; Rec."Source Column Index")
                 {
                     ApplicationArea = All;
@@ -37,9 +39,10 @@ page 60100 "VRM Field Mapping Subform"
 
                         if TableID = 0 then begin
                             ProjCode := Rec."Project Code";
-                            if ProjCode = '' then
-                                if Rec.GetFilter("Project Code") <> '' then
-                                    ProjCode := Rec.GetRangeMin("Project Code");
+
+                            // Fallback if Rec is not yet initialized
+                            if (ProjCode = '') and (Rec.GetFilter("Project Code") <> '') then
+                                ProjCode := Rec.GetRangeMin("Project Code");
 
                             if Project.Get(ProjCode) then
                                 TableID := Project."Target Table ID";
@@ -74,6 +77,7 @@ page 60100 "VRM Field Mapping Subform"
     begin
         if Rec.GetFilter("Project Code") <> '' then
             Rec."Project Code" := Rec.GetRangeMin("Project Code");
+
 
         if Rec.GetFilter("Dest. Table ID") <> '' then
             Rec."Dest. Table ID" := Rec.GetRangeMin("Dest. Table ID");

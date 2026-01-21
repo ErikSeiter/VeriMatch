@@ -3,7 +3,7 @@
   "configurations": [
     {
             "name": "Sandbox03122025_vers2",
-            "tenant": "****",
+            "tenant": "**************",
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
