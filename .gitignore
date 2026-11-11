@@ -1,0 +1,4 @@
+# AL / Business Central build artifacts
+.alpackages/
+.alcache/
+.snapshots/
